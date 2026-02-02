@@ -1,4 +1,4 @@
-# BioPython_Project:
+BioPython_Project:
 IN-SILICO IDENTIFICATION AND FUNCTIONAL CHARACTERIZATION OF A TARGET PROTEIN 
 USING SEQUENCE ANALYSIS AND HOMOLOGY-BASED ANNOTATION
 
@@ -10,26 +10,26 @@ covering three major steps:
 1. Sequence Quality Check (QC)
 2. Homology Analysis using BLASTp
 3. Functional Annotation based on BLAST results
-   
+
 The workflow mimics a basic bioinformatics pipeline used in research laboratories.
 
-FOLDER STRUCTURE:
+FOLDER STRUCTURE
 
 Functional_Sequence_Characterization/
 │
 ├── Analysis/
-│   ├── Sequence_qc.py
-│   └── Homology_analysis.py
+│   ├── sequence_qc.py
+│   └── homology_analysis.py
 │
 ├── Data/
 │   └── Input_sequence.fasta
 │
 └── Results/
-    ├── Qc_summary.txt
-    ├── Blast_results.txt
-    └── Functional_annotation.txt
+    ├── qc_summary.txt
+    ├── blast_results.txt
+    └── functional_annotation.txt
 
-    STEPS INVOLVED IN THIS PIPELINE
+STEPS INVOLVED IN THIS PIPELINE
 
 Step 1 – Sequence Quality Check  
 The script Sequence_qc.py reads the protein from Input_sequence.fasta, calculates and reports:
@@ -50,9 +50,11 @@ saves raw output in blast_result.xml, and extracts:
 - Alignment details
 - Conserved regions
 - Functional annotation
+  
 Results are stored in Blast_results.txt.
 
 Step 3 – Functional Annotation  
 Based on the top BLAST hit, the protein is predicted to be a zinc-finger DNA-binding 
 transcription factor likely involved in regulating gene expression in humans.  
 These results are documented in Functional_annotation.txt.
+
