@@ -15,19 +15,16 @@ The workflow mimics a basic bioinformatics pipeline used in research laboratorie
 
 FOLDER STRUCTURE
 
-Functional_Sequence_Characterization/
-│
-├── Analysis/
-│   ├── sequence_qc.py
-│   └── homology_analysis.py
-│
-├── Data/
-│   └── Input_sequence.fasta
-│
-└── Results/
-    ├── qc_summary.txt
-    ├── blast_results.txt
-    └── functional_annotation.txt
+- Functional_Sequence_Characterization/
+  - Analysis/
+    - Sequence_qc.py
+    - Homology_analysis.py
+  - Data/
+    - Input_sequence.fasta
+  - Results/
+    - Qc_summary.txt
+    - Blast_results.txt
+    - Functional_annotation.txt
 
 STEPS INVOLVED IN THIS PIPELINE
 
