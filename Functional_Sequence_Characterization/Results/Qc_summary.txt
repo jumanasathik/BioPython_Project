@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------------------------------------------------
+Protein ID: tr|C9JTJ1|C9JTJ1_HUMAN
+Description: tr|C9JTJ1|C9JTJ1_HUMAN Hypothetical BC331191_1, isoform CRA_c OS=Homo sapiens OX=9606 GN=ZNF780B PE=1 SV=1
+Protein Length: 685 aa
+Sequence: MPAYTHASPIHNTHKPYECKECGKYFSCGSNLIQHQSIHTGEKPYKCKECGKAFQLHIQLTRHQKFHTGEKTFECKECGKAFNLPTQLNRHKNIHTVKKLFECKECGKSFNRSSNLTQHQSIHAGVKPYQCKECGKAFNRGSNLIQHQKIHSNEKPFVCRECEMAFRYHYQLIEHCRIHTGEKPFECKECRKAFTLLTKLVRHQKIHMGEKPFECRECGKAFSLLNQLNRHKNIHTGEKPFECKECGKSFNRSSNLIQHQSIHADVKPYECKECGKGFNRGANLIQHQKIHSNEKPFVCRECEMAFRYHYQLIQHCQIHTGGKPFECKECGKAFSLLTQLARHKNIHTGEKPFECKDCGKAFNRGSNLVQHQSIHTGEKPYECKECGKAFRLHLQLSQHEKTHTGEKPFECKECGKFFRRGSNLNQHRSIHTGKKPFECKECGKAFRLHMHLIRHQKFHTGEKPFECKECGKAFSLHTQLNHHKNIHTGEKPFKCKECGKSFNRVSNLVQHQSIHAGVKPYECKECGKGFSRVSNLIQHQKTHSSAKPFVCKECRKTFRYHYQLTEHYRIHTGEKPFECKECGKAFGLLTQLAQHQIIHTGEKPFKCKECGKAFNRGSNLVQPQSIHTGEKPYECKECGKAFRLHLQLSLHQKLVQVRNPLNVRNVGQPSDISSNLLNIRKFILG
+------------------------------------------------------------------------------------------------------------------------
+Estimated Molecular Weight: 79360.01 Da
+------------------------------------------------------------------------------------------------------------------------
+Amino Acid Composition (%):
+A: 3.50%
+C: 7.15%
+D: 0.44%
+E: 8.47%
+F: 6.28%
+G: 7.01%
+H: 8.32%
+I: 4.67%
+K: 12.12%
+L: 6.72%
+M: 0.73%
+N: 5.11%
+P: 3.94%
+Q: 6.28%
+R: 4.82%
+S: 5.26%
+T: 4.38%
+V: 2.48%
+W: 0.00%
+Y: 2.34%
+------------------------------------------------------------------------------------------------------------------------  
+Amino Acid Group Composition (%):
+Basic: 25.26%
+Acidic: 8.91%
+Aromatic: 8.61%
+Polar: 28.18%
+Non-polar: 25.11%
+------------------------------------------------------------------------------------------------------------------------  
+Note: Sequence accepted for downstream analysis.
+------------------------------------------------------------------------------------------------------------------------  
