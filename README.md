@@ -23,7 +23,8 @@ FOLDER STRUCTURE
     - Input_sequence.fasta
   - Results/
     - Qc_summary.txt
-    - Blast_results.txt
+    - Blast_results.xml
+    - Blast_analysis.txt
     - Functional_annotation.txt
 
 STEPS INVOLVED IN THIS PIPELINE
@@ -48,7 +49,7 @@ saves raw output in blast_result.xml, and extracts:
 - Conserved regions
 - Functional annotation
   
-Results are stored in Blast_results.txt.
+Analysis results are stored in Blast_analysis.txt.
 
 Step 3 – Functional Annotation
 Based on the top BLAST hit, the protein is predicted to be a zinc-finger DNA-binding transcription factor, likely involved in regulating gene expression in humans.
