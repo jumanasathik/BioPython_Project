@@ -1,4 +1,4 @@
-FUNCTIONAL ANNOTATION - PREDICTION ON THE BASIS OF TOP BLAST HITS:
+FUNCTIONAL ANNOTATION - COMPUTATIONAL PREDICTION ON THE BASIS OF TOP BLAST HITS:
 
 A) Molecular Function of the Query Protein: 
 From my BLAST output, the top hit showed 100% identity (E-value = 0.0) to Zinc finger protein 780B (ZNF780B) from Homo sapiens, 
@@ -47,4 +47,5 @@ c) Biological knowledge of related proteins:
 C2H2 zinc-finger proteins, including ZNF780B, are well-documented transcription factors involved in activating or repressing gene expression, interacting with chromatin-modifying complexes, and regulating nuclear processes.
 d) Evolutionary conservation evidence:
 Orthologs of ZNF780B in other primates (chimpanzee, gorilla, orangutans, macaques, gibbons, baboons) show 94–98% sequence identity. This high conservation suggests the protein performs essential, evolutionarily maintained functions in gene regulation.
+
 
