@@ -47,11 +47,12 @@ saves raw output in blast_result.xml, and extracts:
 - E-value
 - Alignment details
 - Conserved regions
-- Functional annotation
+- Evolutionary hints
+- Functional annotation , that is predicted computationally.
   
 Analysis results are stored in Blast_analysis.txt.
 
 Step 3 – Functional Annotation
-Based on the top BLAST hit, the protein is predicted to be a zinc-finger DNA-binding transcription factor, likely involved in regulating gene expression in humans.
+Based on the top BLAST hit, the protein is computationally predicted to be a zinc-finger DNA-binding transcription factor, likely involved in regulating gene expression in humans.
 The functional annotation is inferred using information from the UniProt database, where the top BLAST hit provides experimentally curated or computationally predicted functional data.
 These results are documented in Functional_annotation.txt. 
